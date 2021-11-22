@@ -1,0 +1,179 @@
+{
+  "bundleSizes": [
+    {
+      "filename": "react.development.js",
+      "bundleType": "UMD_DEV",
+      "packageName": "react",
+      "size": 109379,
+      "gzip": 26588
+    },
+    {
+      "filename": "react.production.min.js",
+      "bundleType": "UMD_PROD",
+      "packageName": "react",
+      "size": 12545,
+      "gzip": 4875
+    },
+    {
+      "filename": "react.profiling.min.js",
+      "bundleType": "UMD_PROFILING",
+      "packageName": "react",
+      "size": 14778,
+      "gzip": 5427
+    },
+    {
+      "filename": "react.development.js",
+      "bundleType": "NODE_DEV",
+      "packageName": "react",
+      "size": 76226,
+      "gzip": 20135
+    },
+    {
+      "filename": "react.production.min.js",
+      "bundleType": "NODE_PROD",
+      "packageName": "react",
+      "size": 7629,
+      "gzip": 2993
+    },
+    {
+      "filename": "React-dev.js",
+      "bundleType": "FB_WWW_DEV",
+      "packageName": "react",
+      "size": 102563,
+      "gzip": 24132
+    },
+    {
+      "filename": "React-prod.js",
+      "bundleType": "FB_WWW_PROD",
+      "packageName": "react",
+      "size": 17254,
+      "gzip": 4452
+    },
+    {
+      "filename": "React-profiling.js",
+      "bundleType": "FB_WWW_PROFILING",
+      "packageName": "react",
+      "size": 17254,
+      "gzip": 4452
+    },
+    {
+      "filename": "React-dev.js",
+      "bundleType": "RN_FB_DEV",
+      "packageName": "react",
+      "size": 94288,
+      "gzip": 21913
+    },
+    {
+      "filename": "React-prod.js",
+      "bundleType": "RN_FB_PROD",
+      "packageName": "react",
+      "size": 17516,
+      "gzip": 4621
+    },
+    {
+      "filename": "React-profiling.js",
+      "bundleType": "RN_FB_PROFILING",
+      "packageName": "react",
+      "size": 17516,
+      "gzip": 4621
+    },
+    {
+      "filename": "react-dom.development.js",
+      "bundleType": "UMD_DEV",
+      "packageName": "react-dom",
+      "size": 978833,
+      "gzip": 214236
+    },
+    {
+      "filename": "react-dom.production.min.js",
+      "bundleType": "UMD_PROD",
+      "packageName": "react-dom",
+      "size": 125131,
+      "gzip": 41072
+    },
+    {
+      "filename": "react-dom.profiling.min.js",
+      "bundleType": "UMD_PROFILING",
+      "packageName": "react-dom",
+      "size": 130493,
+      "gzip": 42735
+    },
+    {
+      "filename": "react-dom.development.js",
+      "bundleType": "NODE_DEV",
+      "packageName": "react-dom",
+      "size": 931507,
+      "gzip": 211654
+    },
+    {
+      "filename": "react-dom.production.min.js",
+      "bundleType": "NODE_PROD",
+      "packageName": "react-dom",
+      "size": 125307,
+      "gzip": 40272
+    },
+    {
+      "filename": "react-dom.profiling.min.js",
+      "bundleType": "NODE_PROFILING",
+      "packageName": "react-dom",
+      "size": 130858,
+      "gzip": 41967
+    },
+    {
+      "filename": "ReactDOM-dev.js",
+      "bundleType": "FB_WWW_DEV",
+      "packageName": "react-dom",
+      "size": 1016576,
+      "gzip": 221463
+    },
+    {
+      "filename": "ReactDOM-prod.js",
+      "bundleType": "FB_WWW_PROD",
+      "packageName": "react-dom",
+      "size": 382400,
+      "gzip": 70828
+    },
+    {
+      "filename": "ReactDOM-profiling.js",
+      "bundleType": "FB_WWW_PROFILING",
+      "packageName": "react-dom",
+      "size": 395650,
+      "gzip": 73327
+    },
+    {
+      "filename": "ReactDOMForked-dev.js",
+      "bundleType": "FB_WWW_DEV",
+      "packageName": "react-dom",
+      "size": 1028020,
+      "gzip": 222786
+    },
+    {
+      "filename": "ReactDOMForked-prod.js",
+      "bundleType": "FB_WWW_PROD",
+      "packageName": "react-dom",
+      "size": 384866,
+      "gzip": 71386
+    },
+    {
+      "filename": "ReactDOMForked-profiling.js",
+      "bundleType": "FB_WWW_PROFILING",
+      "packageName": "react-dom",
+      "size": 399731,
+      "gzip": 74005
+    },
+    {
+      "filename": "jest-react.development.js",
+      "bundleType": "NODE_DEV",
+      "packageName": "jest-react",
+      "size": 5805,
+      "gzip": 1903
+    },
+    {
+      "filename": "jest-react.production.min.js",
+      "bundleType": "NODE_PROD",
+      "packageName": "jest-react",
+      "size": 1670,
+      "gzip": 915
+    }
+  ]
+}
